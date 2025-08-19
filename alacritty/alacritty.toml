@@ -1,0 +1,19 @@
+[terminal.shell]
+program = "/bin/zsh"
+args = []
+
+[font]
+size = 9.0
+normal = { family = "JetBrains Mono Medium Nerd Font", style = "Regular" }
+
+[window]
+dimensions = { columns = 100, lines = 25 }
+padding = { x = 5, y = 5}
+dynamic_padding = true
+# decorations = "None"
+blur = true
+opacity = 0.8
+startup_mode = "Windowed"
+dynamic_title = false
+
+[terminal]
